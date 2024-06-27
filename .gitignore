@@ -1,0 +1,4 @@
+echo "*.db"
+echo "*.log"
+echo "target/"
+echo "bin/"
